@@ -65,7 +65,7 @@ At the core of this project is the user-friendly and secure registration process
 
 ## ✍️ Author <a name="author"></a>
 
-- [@Shubham Jadhav](https://github.com/shubhamj-26)
+- [@Pranav Jadhav](https://github.com/pranavjadhavps)
 
 ## 🎉 Acknowledgements <a name="acknowledgement"></a>
 
